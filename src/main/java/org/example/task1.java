@@ -19,7 +19,7 @@ public class task1 {
             }
             b = a;
         }
-        System.out.println("quantity: " + quant);
+        System.out.println("Количество: " + quant);
         scanner.close();
     }
 }
